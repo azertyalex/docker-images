@@ -1,4 +1,4 @@
-FROM linuxserver/sonarr:latest
+FROM sonarr:latest
 
 LABEL org.freenas.interactive="false" \
       org.freenas.version=1 \
